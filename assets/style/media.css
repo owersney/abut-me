@@ -1,0 +1,72 @@
+@media  (max-width:1200px) {
+    .aboute_me-content{
+        gap: 20px;
+    }
+    
+    .aboute_me-text{
+        max-width: 436px;
+    }
+    
+}
+
+
+
+
+@media  (max-width:992px){
+     .header_content{
+        min-height: 550px;
+     }
+    
+
+
+.nav_list-link{
+    font-size: 20px;
+    
+}
+
+.nav_logo{
+    font-size: 28px;
+}
+
+.header_btn{
+    font-size: 26px;
+    margin-top: 60px;
+}
+.header_title{
+    font-size: 32px;
+}
+
+ .aboute_me-content{
+    flex-direction: column;
+ }
+ 
+  .aboute_me-content img{
+    max-width: 100%;
+  }
+  
+  .works_cards{
+    justify-content: center;
+  }
+  
+  .aboute_me-text{
+   max-width: 300px;
+  }
+@media   (max-width:768px){}
+@media  (max-width:576px){
+    .nav_content{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .header_title{
+        text-align: center;
+        font-size: 24px;
+    }
+    .nav_list{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+    
+}
+    
+
